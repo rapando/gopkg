@@ -2,6 +2,11 @@ package gopkg
 
 import "fmt"
 
+/*
+Samson Rapando
+Dec 15, 2020
+*/
+
 // Shape interface that defines the methods contained
 type Shape interface {
 	Description()
