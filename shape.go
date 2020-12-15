@@ -1,4 +1,4 @@
-package shape
+package gopkg
 
 // Shape interface that defines the methods contained
 type Shape interface {
